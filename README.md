@@ -32,11 +32,3 @@
 | トレードオフの根拠 | 20 | LLM |
 | セキュリティへの配慮 | 10 | LLM |
 | DECISION.md の質 | 10 | LLM |
-
-### GitHub Secrets の設定
-
-| Secret 名 | 値 |
-|---|---|
-| `GIT_EVAL_URL` | 管理者から通知された Webhook URL |
-| `GIT_EVAL_SECRET` | 管理者から通知された Secret キー |
-| `ANTHROPIC_API_KEY` | Claude API キー（LLM 評価に必要） |
